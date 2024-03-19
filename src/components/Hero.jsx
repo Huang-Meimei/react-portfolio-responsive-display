@@ -20,10 +20,10 @@ const Hero = () => {
                Feel Free to connect with me.
               </p>
               <div className="profile-links">
-                <a href="https://github.com/phuc-mai">
+                <a href="#">
                   <i class="fa-brands fa-github"></i>
                 </a>
-                <a href="https://www.linkedin.com/in/phuc-mai-1309/">
+                <a href="#">
                   <i class="fa-brands fa-linkedin"></i>
                 </a>
               </div>

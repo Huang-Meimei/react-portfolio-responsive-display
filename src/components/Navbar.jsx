@@ -25,7 +25,7 @@ const Navbar = () => {
         <div className={`navbar ${navBg}`}>
           <div className="navbar_logo">
             <a href="/" onClick={() => window.scrollTo(0, 0)}>
-              <h1>Zero Degree Coder</h1>
+              <h1>Coder World</h1>
             </a>
           </div>
 

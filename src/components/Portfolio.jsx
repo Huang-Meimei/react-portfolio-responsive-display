@@ -27,11 +27,11 @@ const Portfolio = () => {
                 <p>Material UI</p>
               </div>
               <div className="project-links">
-                <a href="https://github.com/phuc-mai/Socialife" target="_blank">
+                <a href="#" target="_blank">
                   Code
                   <i class="fa-brands fa-github"></i>
                 </a>
-                <a href="https://socialife.phucmai.com/" target="_blank">
+                <a href="#" target="_blank">
                   Live Demo
                   <i class="fa-solid fa-arrow-up-right-from-square"></i>
                 </a>
@@ -39,7 +39,7 @@ const Portfolio = () => {
             </div>
             <div className="project-img">
               <a
-                href="https://socialife.phucmai.com/"
+                href="#"
                 target="_blank"
               >
                 <img src="assets/Socialife.png" alt="social-media-app" />
@@ -49,7 +49,7 @@ const Portfolio = () => {
 
           <div className="project">
             <div className="project-img">
-              <a href="https://motorbike-rental.netlify.app/" target="_blank">
+              <a href="#" target="_blank">
                 <img src="assets/Motorbike Rental.png" alt="motor-rental" />
               </a>
             </div>
@@ -68,13 +68,13 @@ const Portfolio = () => {
               </div>
               <div className="project-links">
                 <a
-                  href="https://github.com/phuc-mai/Motorbike-Rental"
+                  href="#"
                   target="_blank"
                 >
                   Code
                   <i class="fa-brands fa-github"></i>
                 </a>
-                <a href="https://motorbike-rental.netlify.app/" target="_blank">
+                <a href="#" target="_blank">
                   Live Demo
                   <i class="fa-solid fa-arrow-up-right-from-square"></i>
                 </a>
@@ -96,12 +96,12 @@ const Portfolio = () => {
                 <p>Javascript</p>
               </div>
               <div className="project-links">
-                <a href="https://github.com/phuc-mai/fitfinity" target="_blank">
+                <a href="#" target="_blank">
                   Code
                   <i class="fa-brands fa-github"></i>
                 </a>
                 <a
-                  href="https://fitfinity-gym-center.netlify.app/"
+                  href="#"
                   target="_blank"
                 >
                   Live Demo
@@ -111,7 +111,7 @@ const Portfolio = () => {
             </div>
             <div className="project-img">
               <a
-                href="https://fitfinity-gym-center.netlify.app/"
+                href="#"
                 target="_blank"
               >
                 <img src="assets/Fitfinity.png" alt="fitfinity-gym-center" />
@@ -121,7 +121,7 @@ const Portfolio = () => {
 
           <div className="project">
             <div className="project-img">
-              <a href="https://phucmaicryptoverse.netlify.app/" target="_blank">
+              <a href="#" target="_blank">
                 <img src="assets/Cryptoverse.png" alt="cryptoverse" />
               </a>
             </div>
@@ -141,14 +141,14 @@ const Portfolio = () => {
               </div>
               <div className="project-links">
                 <a
-                  href="https://github.com/phuc-mai/cryptoverse"
+                  href="#"
                   target="_blank"
                 >
                   Code
                   <i class="fa-brands fa-github"></i>
                 </a>
                 <a
-                  href="https://phucmaicryptoverse.netlify.app/"
+                  href="#"
                   target="_blank"
                 >
                   Live Demo
@@ -176,20 +176,20 @@ const Portfolio = () => {
               </div>
               <div className="project-links">
                 <a
-                  href="https://github.com/phuc-mai/youtube_clone"
+                  href="#"
                   target="_blank"
                 >
                   Code
                   <i class="fa-brands fa-github"></i>
                 </a>
-                <a href="https://phuc-mai-media.netlify.app/" target="_blank">
+                <a href="#" target="_blank">
                   Live Demo
                   <i class="fa-solid fa-arrow-up-right-from-square"></i>
                 </a>
               </div>
             </div>
             <div className="project-img">
-              <a href="https://phuc-mai-media.netlify.app/" target="_blank">
+              <a href="#" target="_blank">
                 <img src="assets/Youtube.jpg" alt="youtube" />
               </a>
             </div>
